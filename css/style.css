@@ -1,0 +1,44 @@
+body{
+   margin: 0;
+   padding: 0;
+   background: linear-gradient(150deg,blue 50%,red 50%);
+}
+.container{
+   margin-top: 80px;
+  text-align: center;
+ 
+}
+.div h2{
+   margin-right: 355px;
+   font-size: 40px;
+}
+.div label{
+   font-size: 28px;
+}
+.div input{
+   font-size: 20px;
+   width:450px;
+   height: 30px;
+
+}
+.div .email{
+   margin-right: 285px;
+   padding: 10px;
+}
+.div .section{
+   margin-right: 350px;
+   margin-top: 25px;
+   padding: 10px;
+}
+.login button{
+   width: 160px;
+   height: 30px;
+   font-size: 18px;
+   font-weight: bold;
+   margin-top: 40px;
+   background: blue;
+}
+.login p{
+   font-size: 18px;
+   margin-top: 20px;
+}
